@@ -1,0 +1,79 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Results for Test
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Have end of conversation intent? False
+
+--------
+INTENTS WITH NO WEBHOOK ENABLED
+--------
+
+No webhook and no default fulfillment
+Cherries
+Apple
+No webhook and greater than 640 characters
+Default Fallback Intent
+No google assistant, only default, no webhook
+Bananananananana
+Bad Intent - no webhook
+
+--------
+INTENTS WITH NO DEFAULT FULFILLMENT TEXT
+--------
+
+No webhook and no default fulfillment
+Bananananananana
+Bad Intent - no fulfillment text
+No default front and no default text
+
+--------
+INTENTS WITH FULFILLMENT TEXT LONGER THAN 640 CHARACTERS
+--------
+
+Simple response greater than 640 and many more elements
+No webhook and greater than 640 characters
+Simple response greater than 640, everything else is fine
+Accessibility text in list and 640 in rich response
+Greater than 640 for second fulfillment text
+Bad Intent - 640 characters
+
+--------
+INTENTS WITH DEFAULT FULFILLMENT TEXT NOT SET TO THE FRONT OF RICH RESPONSES
+--------
+
+Apple
+Default Fallback Intent
+No google assistant, only default, no webhook
+Bananananananana
+Bad Intent - no fulfillment text
+Bad Intent - no default front
+No default front, accessbility text exists
+No default front and no default text
+
+--------
+ALL INTENTS 
+--------
+
+Perfect 2
+No webhook and no default fulfillment
+Cherries
+Simple response greater than 640 and many more elements
+Apple
+No webhook and greater than 640 characters
+Default Fallback Intent
+No google assistant, only default, no webhook
+Simple response greater than 640, everything else is fine
+Default Welcome Intent
+Bananananananana
+Accessibility text in list and 640 in rich response
+Bad Intent - no fulfillment text
+Bad Intent - no default front
+Greater than 640 for second fulfillment text
+No default front, accessbility text exists
+Bad Intent - 640 characters
+No default front and no default text
+Perfect 1
+Bad Intent - no webhook
+
+
+

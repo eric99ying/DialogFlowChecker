@@ -1,0 +1,9 @@
+{
+  "configs": [
+    {
+      "agent_name": "Test",
+      "project_id": "test-7bc7f",
+      "authentication_file": "test-7bc7f-ee92b882fe05.json"
+    }
+  ]
+}
